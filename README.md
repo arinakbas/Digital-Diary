@@ -1,16 +1,29 @@
-# dg1
+# Team-1 One Minute Diary
 
-A new Flutter project.
+One Minute Diary is a simple app where you can record a one-minute video each day to talk about your day.  
+All videos are saved with the date, so you can look back and see how your days have been.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Record one video per day (1 minute long)
+- Videos are saved by date
+- Watch your old videos whenever you want
+- Simple and private design
+- Add daily reminder 
 
-A few resources to get you started if this is your first Flutter project:
+## How It Works
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Open the app
+2. Record your one-minute video
+3. The app saves it automatically with today’s date
+4. Go back later to watch past videos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- Frontend: Flutter
+- Backend: Firebase
+
+## Future Plans
+
+- Add cloud sync
+- Making video public/sharing

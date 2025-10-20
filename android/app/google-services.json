@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "827108928293",
+    "project_id": "digitaldiaryapp-591c2",
+    "storage_bucket": "digitaldiaryapp-591c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827108928293:android:084af0ad235020d17e88cc",
+        "android_client_info": {
+          "package_name": "com.example.digital_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssSGS97fxQwU8-aI7g7bk9Q02EG1hPrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827108928293:android:e798e887bd1b57747e88cc",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssSGS97fxQwU8-aI7g7bk9Q02EG1hPrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827108928293:android:c4902236fe8953e77e88cc",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssSGS97fxQwU8-aI7g7bk9Q02EG1hPrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

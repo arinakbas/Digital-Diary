@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:827108928293:android:1cd035e69d3baef87e88cc",
+        "android_client_info": {
+          "package_name": "com.dincerefe.digitaldiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssSGS97fxQwU8-aI7g7bk9Q02EG1hPrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:827108928293:android:084af0ad235020d17e88cc",
         "android_client_info": {
           "package_name": "com.example.digital_diary"

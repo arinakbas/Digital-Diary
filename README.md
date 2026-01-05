@@ -1,6 +1,6 @@
-# Team-1 One Minute Diary
+# Team-1 One Minute Digital Diary
 
-One Minute Diary is a simple app where you can record a one-minute video each day to talk about your day.  
+One Minute Digital Diary is a simple app where you can record a one-minute video each day to talk about your day.  
 All videos are saved with the date, so you can look back and see how your days have been.
 
 ## Features
@@ -27,3 +27,4 @@ All videos are saved with the date, so you can look back and see how your days h
 
 - Add cloud sync
 - Making video public/sharing
+
